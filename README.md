@@ -19,7 +19,7 @@ First of all, welcome to Coyotiv Community!
 Bootcamps are outdated. Coyotiv School of Software Engineering is the next generation, remote software engineering education designed to make you a first-class software engineer from scratch in 2020 and beyond.
 
 Here is our [website](https://www.coyotiv.com/)
-Join us on [Slack](https://coyotiv-community.slack.com)
+Join us on [Slack](https://join.slack.com/t/coyotiv-community/shared_invite/zt-ecjq3k5t-E4GdEkpX14cXQds0GAf2oA)
 
 ## Community
 
@@ -42,7 +42,7 @@ We would like to share tools we work with.
 
 [Slack](https://slack.com/intl/en-de/) is the messaging tool that we use to communicate during the course:  [macOS Download](https://slack.com/intl/en-de/downloads/mac) | [Windows download](https://slack.com/intl/en-de/downloads/windows).
 
-Important :speaker:: Get your personal invite to our Coyotiv Community slack workspace by typing your email [here](coyotiv-community.slack.com).
+Important :speaker:: Get your personal invite to our Coyotiv Community slack workspace by typing your email [here](https://join.slack.com/t/coyotiv-community/shared_invite/zt-ecjq3k5t-E4GdEkpX14cXQds0GAf2oA).
 
 On our `#general` channel you will be able to ask questions, get support and share the link of your code so we can review it and give you feedback. If you cannot see it on the left menu of the slack app under **Channels**, you can search for it after clicking on the title.
 
